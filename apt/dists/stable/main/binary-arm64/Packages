@@ -1,13 +1,13 @@
 Package: endlessnet-client
-Version: 0.3.0
+Version: 0.6.0
 Architecture: arm64
 Maintainer: EndlessNet <support@endlessnet.ru>
-Installed-Size: 8620
-Filename: pool/main/e/endlessnet-client/endlessnet-client_0.3.0_arm64.deb
-Size: 2882190
-MD5sum: fa3e34b214d0d4589d8c0ee837732678
-SHA1: 4798c50eaec5246701a237ed6755ff8885ba9b40
-SHA256: 462ebf6a5b23fe1213e458cd1a36cef780b36c22f6ff8d083b92079b76f8716b
+Installed-Size: 31684
+Filename: pool/main/e/endlessnet-client/endlessnet-client_0.6.0_arm64.deb
+Size: 8197348
+MD5sum: ccecbc5839fcb138b0a16e85e908f74f
+SHA1: 730d319c72cc8ddec779fec92d583739f461d36d
+SHA256: b3aeb22dc5dc3d39e83f8fe947ce13f2a937f5629c2f06be3d614c84c204589b
 Section: net
 Priority: optional
 Description: EndlessNet CLI client
@@ -15,18 +15,18 @@ Description: EndlessNet CLI client
  WireGuard-compatible peer configuration.
 
 Package: unng-archive-keyring
-Version: 2026071501
+Version: 2026082501
 Architecture: all
 Maintainer: EndlessNet <support@endlessnet.ru>
-Filename: pool/main/u/unng-archive-keyring/unng-archive-keyring_2026071501_all.deb
+Filename: pool/main/u/unng-archive-keyring/unng-archive-keyring_2026082501_all.deb
 Size: 1604
-MD5sum: 70452e223d20c21bb7718464a248a562
-SHA1: d0ac0136fdd3cc13e83f6279baa633e4b6850c8b
-SHA256: aafea093d111a17300caaf5b5be4251f5ac3fabf9039876f59178cdc5006b0e9
+MD5sum: a2759560d0fb853d3d4f39d16e52243b
+SHA1: c1bf3704fadc383348eccfb69115854b1204ad24
+SHA256: 4a2cffef7812888f1f66134d027255877a772fe96d571bd17b5aca3a9a09a2ce
 Section: misc
 Priority: optional
 Multi-Arch: foreign
 Description: OpenPGP keys for the UNNG APT repository
  This package contains the trusted public keys used to verify metadata from
- the UNNG APT repository at https://apt.unng.ru/apt.
+ the UNNG APT repository at https://apt.endlessnet.ru/apt.
 
