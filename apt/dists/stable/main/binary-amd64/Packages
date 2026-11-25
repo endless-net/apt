@@ -1,18 +1,18 @@
 Package: endlessnet-client
-Version: 0.6.2
+Version: 0.18.0
 Architecture: amd64
 Maintainer: EndlessNet <support@endlessnet.ru>
-Installed-Size: 35384
-Filename: pool/main/e/endlessnet-client/endlessnet-client_0.6.2_amd64.deb
-Size: 9661390
-MD5sum: d9959657c3f4ffd1bce43bcf4d511c2e
-SHA1: 0756929c9e5f15fb2fb493af5269ee66858d1ee3
-SHA256: 93a67ad85f675b99a13ac03e079406d09d8158448b9f51cb1ce9e106c9d1acf4
+Depends: systemd, init-system-helpers, iproute2, nftables, ca-certificates
+Provides: endlessnet-client-linux-runtime
+Filename: pool/main/e/endlessnet-client/endlessnet-client_0.18.0_amd64.deb
+Size: 22442216
+MD5sum: 1946a9382948147c0914f41d32254ba7
+SHA1: 5b66f268d979d6008ef340b5c860148e049f9607
+SHA256: eb40bf7cb22c2878e0886893b448941c1956f7411c721760e6bfe3ffe32e9948
 Section: net
 Priority: optional
-Description: EndlessNet CLI client
- EndlessNet client registers nodes with the control plane and renders
- WireGuard-compatible peer configuration.
+Description: EndlessNet headless Client for Ubuntu
+ Runs the EndlessNet service and provides the endlessnet local command.
 
 Package: unng-archive-keyring
 Version: 2026082501
