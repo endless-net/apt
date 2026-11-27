@@ -4,42 +4,42 @@ Hash: SHA256
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Fri, 27 Nov 2026 20:37:39 +0000
+Date: Fri, 27 Nov 2026 22:15:19 +0000
 Description: UNNG APT repository
 Label: UNNG
 Origin: UNNG
 Suite: stable
 MD5Sum:
- 8036a2dcb77217dc5403c9fafcdfe9ba             1247 main/binary-amd64/Packages
- db295b040f7fd47d683dfbb5e58e0ca2              691 main/binary-amd64/Packages.gz
+ 76ab1ac0173d866a0da3ec7da3c42d64             1247 main/binary-amd64/Packages
+ d591219c4bdf909d847a383a74d74a14              690 main/binary-amd64/Packages.gz
  2dbfa1c90a20ad0bf2715299daed4742             1173 main/binary-arm64/Packages
  757bb5f94e14b274d8a1336ebd3dd2b8              660 main/binary-arm64/Packages.gz
 SHA1:
- f2b1da0a2327dd41e23e565ddebba8640bcfcd23             1247 main/binary-amd64/Packages
- 537264cb8bf17687ed557c21c156430a64373e0a              691 main/binary-amd64/Packages.gz
+ 0b620b974b899cc98b367e28a8d7c98c6ebb1c5b             1247 main/binary-amd64/Packages
+ 6549b6d99eea84d1785e27f9948a9e8a9a136ea5              690 main/binary-amd64/Packages.gz
  ddc6fb5d636459d46960ff472b1f4ab62f1c7a76             1173 main/binary-arm64/Packages
  0dc45a0a631de3434afe2bbd46aea6ea2c522b02              660 main/binary-arm64/Packages.gz
 SHA256:
- 1c37ce70812380c002cf24835c570569b246a389466bf4656cdcfab393c427e7             1247 main/binary-amd64/Packages
- ff11f0affc72a40ba4911abcbd862d40f08bbda4fb2fa5615ff3304bcf2a4582              691 main/binary-amd64/Packages.gz
+ 6a355667404e4cd05724683cf92dbe602e18317b084fd026bb0ab67a3c11a9bb             1247 main/binary-amd64/Packages
+ e8c06a6df103fd0cc576e9d1cf5c8d431b9007e22c2732a2463522220a81b4a7              690 main/binary-amd64/Packages.gz
  7ee3610feaf4e9c3715a552ece728707430c75284d36c73bcc063af9d510f7e0             1173 main/binary-arm64/Packages
  8eed34c969983761fb8d9f3e1771d4a28aaa6f3e520923c57b6d8cc4f621d355              660 main/binary-arm64/Packages.gz
 SHA512:
- 0b4cdacf07f20ebddbf14317698526b5a9c4f9f423b6b4941e0cec77755a428b7aa791c53a3cba9fe352d00f5bd91d9fa288a1decea3a19f2b5b19d2c2d57d73             1247 main/binary-amd64/Packages
- 198b2770e227ce6bcb18b8149ffe5a12f8bb077d37da23945bff446a68fd949dac299b72235e307ab739872d3a2af3d9a766e903bcbfc13ea2a57afd25641439              691 main/binary-amd64/Packages.gz
+ 99ec4c1f583179c289bde77a9b7b8c9b6d57e346381f996b35ac3ae8707565c503bdb2fb071465b5ec4220fe840fdef88b88cf670c2384921ef09ead7dbbc1ff             1247 main/binary-amd64/Packages
+ 9e411e3168b8d97f5a78a508ed107fbb462cef2730c72706a3c94fe1c20098a6b07eb6d55330c3ae4bb63388b46dbe560ea44bf9b0257daef837e270b5e8eee5              690 main/binary-amd64/Packages.gz
  5a6ff498b8e847c2b068194a62cbbd08a7b57b1e920fb19ff0183d217380e401190eec881c1e02e364c0a32c21e8a12ea8748848a0ac09965b988893fb0500d5             1173 main/binary-arm64/Packages
  65fda30add92ee737b6e5ed551dfc518f47760de1a75a2991fbd014a638127237f9041573c481c6ca6f1aa6362c24e8ec03c116d6307dd07243e2cc2abb6aacb              660 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEbUrLMEks1kwNve6akBBH7duFakgFAmsJ6hMACgkQkBBH7duF
-akilGQv+PDep8SP8HrrfZLFhgVqSkRVjesxs5opMbd7Nqh+8hFPhqIkJrqtJyfJr
-P4iF5K3vC1Pp0Y2PF0icMGHoELaFu5kAOhey1bR5nKRAvIYja4P+H8LXp5rmst9i
-ZC8q2POscRK2K2xbnJG6yVEFpaHnli0bARBQOSuksjohf4hpa2XiSatz/Zv6l0eG
-wsE8zBAP3feYK/4EeGEA4rO19tZniU/k+n48bWhasWXgCbWc9EBBPYsb9/Fcr8rg
-GKEtMeJ7EoLcOzrQY0bdeZMVJfOqpDfnRD+X2MVko0qKFnNjCoGIrMkL+kyHgKgj
-a4EEkq0TotO/5Wrz1pJZ2HSoy2wBQgKSTdOhuwp64E6qLqyQNkhFkokSucBhKZG9
-MrBBA6y4UTkI37EXF+Vt4RIqmBQSbn87ExbbLRXomSVY7EwP8i0+h9X4hohu8CQt
-DyFsKkRAow6y/3n9E8nQZv+3A7EEzswQhH3V0YiwXxELs+/3PWlPZ3jti00vyFF/
-3Bs0UM+5
-=ePp6
+iQGzBAEBCAAdFiEEbUrLMEks1kwNve6akBBH7duFakgFAmsKAPgACgkQkBBH7duF
+akilpQv/W1dUHJKZGM3hZXD4s64hPzitRiuzsfSXcrORYLicaItjF1wMc4wvii4T
+/XzdVoOQE054z5+VraGREq0ySneHsBlvue93Rspx8aN1puf5RiTIqg5fJ8UEZ5yt
+mIFG/PgYOm/Ui6K8qHYfhylckXrpIbXu31NeuM5raN4ubvKQ1tSOVadXH/JKrxCZ
+LAaWf/pv3LZDEQa7Jano8/tgO9Vhy+xaMIZ1o3nHCywWYSaZaBEKNhfzaz/qPG0e
+7wTYBJIg4WHFUbns1583sKatCkb74qioE+OJ5ronHSjpLTuktPdmTAnqofJD+Ex1
+dnqp5esDsYWsrCtILmWfJ5jGNpz7Tn3TWF8Q5zXVZt49KVqoqLyEAC3Nuxyhyun9
+imeY0LzYfssSZMMVNUFoMasGI/6RdMxmQW9z68xZEY7nOI0ZbrhcMD4GmseSYwgh
+FtMY7EYk2pN1Uzc4VbrrZEKU+9fr+e1piTBeoipbQZY80tcNlORl+hs1HoAUzSoc
+bA597qLu
+=u/MV
 -----END PGP SIGNATURE-----
