@@ -1,14 +1,14 @@
 Package: endlessnet-client
-Version: 0.21.3
+Version: 0.21.4
 Architecture: amd64
 Maintainer: EndlessNet <support@endlessnet.ru>
 Depends: systemd, init-system-helpers, iproute2, nftables, ca-certificates
 Provides: endlessnet-client-linux-runtime
-Filename: pool/main/e/endlessnet-client/endlessnet-client_0.21.3_amd64.deb
-Size: 23739162
-MD5sum: 75649caf2661e6e1958ac33306e36def
-SHA1: 2577948c8a14258e56f8b1627f568c273300a09e
-SHA256: b941c403b0841a61356d9d13076df38c82b1f1172c4a1c0690800100d911b2bd
+Filename: pool/main/e/endlessnet-client/endlessnet-client_0.21.4_amd64.deb
+Size: 23742810
+MD5sum: 4d1e9abe6867809672334f3356d6ffa9
+SHA1: 3201e283ccf7d90a9c1e905e21f83e3df38e1290
+SHA256: 69648c5c0f14b4096409d12e44f17db388178e50c790f2fcabea3ffe3eb1f1d2
 Section: net
 Priority: optional
 Description: EndlessNet headless Client for Ubuntu
